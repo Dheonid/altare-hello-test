@@ -1,0 +1,1 @@
+{"description":"Server tes minimal untuk Altare App Hosting — Node.js tanpa dependensi.","engines":{"node":">=20"},"license":"MIT","main":"server.js","name":"altare-hello-test","scripts":{"start":"node server.js"},"version":"1.0.0"}
